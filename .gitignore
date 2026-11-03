@@ -1,0 +1,17 @@
+# macOS
+.DS_Store
+
+# IntelliJ
+.idea/
+*.iml
+
+# Maven
+**/target/
+
+# Environment and secrets
+.env
+.env.*
+!.env.example
+
+# Logs
+*.log
